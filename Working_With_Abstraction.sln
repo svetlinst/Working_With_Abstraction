@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L01_Rhombus_of_stars", "L01_Rhombus_of_stars\L01_Rhombus_of_stars.csproj", "{C86D5CEE-AFE9-47CD-8073-2038E5758085}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L02_Point_in_rectangle", "L02_Point_in_rectangle\L02_Point_in_rectangle.csproj", "{5228F1BA-5F52-4126-AD85-E8BC9C2F8D0D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_StudentSystem", "..\..\..\Desktop\SoftUni\OPP Basic\02. CSharp-OOP-Basics-Working-with-Abstraction-Lab-Resources\P03_StudentSystem\P03_StudentSystem.csproj", "{B1CA5A6A-05B9-4146-9D5B-08D1F618A969}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L04_Price_calculator", "L04_Price_calculator\L04_Price_calculator.csproj", "{97D0E4F9-8987-4B38-A831-634A47236F28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_RawData", "..\..\..\Desktop\SoftUni\OPP Basic\02_Working_With_Abstraction\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\P01_RawData\P01_RawData.csproj", "{C7C79642-1CA1-43F2-8277-7704A33AD870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C86D5CEE-AFE9-47CD-8073-2038E5758085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86D5CEE-AFE9-47CD-8073-2038E5758085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86D5CEE-AFE9-47CD-8073-2038E5758085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86D5CEE-AFE9-47CD-8073-2038E5758085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5228F1BA-5F52-4126-AD85-E8BC9C2F8D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5228F1BA-5F52-4126-AD85-E8BC9C2F8D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5228F1BA-5F52-4126-AD85-E8BC9C2F8D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5228F1BA-5F52-4126-AD85-E8BC9C2F8D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CA5A6A-05B9-4146-9D5B-08D1F618A969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CA5A6A-05B9-4146-9D5B-08D1F618A969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CA5A6A-05B9-4146-9D5B-08D1F618A969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CA5A6A-05B9-4146-9D5B-08D1F618A969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D0E4F9-8987-4B38-A831-634A47236F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D0E4F9-8987-4B38-A831-634A47236F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D0E4F9-8987-4B38-A831-634A47236F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D0E4F9-8987-4B38-A831-634A47236F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C79642-1CA1-43F2-8277-7704A33AD870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C79642-1CA1-43F2-8277-7704A33AD870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C79642-1CA1-43F2-8277-7704A33AD870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C79642-1CA1-43F2-8277-7704A33AD870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFA14E4E-7669-464B-9CE2-F49F3776E658}
+	EndGlobalSection
+EndGlobal
